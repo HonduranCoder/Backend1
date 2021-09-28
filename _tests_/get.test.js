@@ -36,7 +36,7 @@ describe('get routes', ()=>{
     it('the halloween-characters endpoint returns all halloween-characters', async()=> {
         const myData ={
             id:1, 
-            name:'Miachael Myers', 
+            name:'Michael Myers', 
             movie: 'Halloween',
             image: 'https://m.media-amazon.com/images/I/41cnyG7PO5L._AC_SS450_.jpg'
         }; 
